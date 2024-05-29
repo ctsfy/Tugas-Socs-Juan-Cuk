@@ -1,0 +1,1 @@
+strlen(minggu[i].word)

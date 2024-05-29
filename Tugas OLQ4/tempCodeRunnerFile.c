@@ -1,0 +1,1 @@
+karakteroutput[k] = '\0';
